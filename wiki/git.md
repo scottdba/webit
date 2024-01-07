@@ -15,7 +15,19 @@ https://hackmd.io/@yillkid/ry_FvBmWY
 
 ## Bitbucket
 
+Bitbucket Wiki使用
+
 https://dearsherlock.github.io/bitbucket/2014/11/08/bitbucket-wiki.html
+
+Create a wiki
+
+https://support.atlassian.com/bitbucket-cloud/docs/create-a-wiki/
+
+:::info
+Support
+- Private Wiki
+- Public Wiki
+:::
 
 ## GitLab
 
