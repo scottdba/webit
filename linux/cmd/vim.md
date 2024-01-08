@@ -610,7 +610,9 @@ Form VIM 7.0
 **Column selection.**
 
 -   ctl-v
--   use arrow keys to move around
+-   Selection by
+  - use arrow keys to move around
+  - use shif-g to go to the end of file
 
 **Replacing the selected columns with new characters.**
 
@@ -619,8 +621,14 @@ Form VIM 7.0
 -   type new characters ( it will show only on the fist line )
 -   \<ESC>\<ESC>
 
+**Other actions**
+
 Use I (shift-i), A (shift-a) for other situation : referring to below
 link
+
+Comments often uses below actions
+
+- shift-i
 
 [vim#editing](/ubuntu_cookbook/system/vim#editing)
 
